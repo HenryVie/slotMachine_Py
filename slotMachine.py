@@ -1,6 +1,6 @@
 # Slot machine CLI
 # Author: Nguyễn Đình Nam
-# Description: A command-line unit converter supporting temperature, mass, and length conversions.
+# Description: A command-line slot machine simulator.
 
 import random
 
