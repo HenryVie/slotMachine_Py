@@ -1,3 +1,7 @@
+# Slot machine CLI
+# Author: Nguyễn Đình Nam
+# Description: A command-line unit converter supporting temperature, mass, and length conversions.
+
 import random
 
 symbols = ['7', 'A', 'B', 'C', 'D']
